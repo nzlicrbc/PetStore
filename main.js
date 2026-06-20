@@ -53,3 +53,15 @@ ScrollReveal().reveal(".about__row:nth-child(4) .about__image img" , {
     ...scrollRevealOption,
     origin:"right",
 });
+ScrollReveal().reveal(".about__content span" , {
+    ...scrollRevealOption,
+    delay: 500,
+});
+ScrollReveal().reveal(".about__content h4" , {
+    ...scrollRevealOption,
+    delay: 1000,
+});
+ScrollReveal().reveal(".about__content p" , {
+    ...scrollRevealOption,
+    delay: 1500,
+});
