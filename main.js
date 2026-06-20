@@ -13,3 +13,29 @@ navLinks.addEventListener("click", (e) => {
     navLinks.classList.remove("open");
     menuBtnIcon.setAttribute("class", "ri-menu-line");
 });
+
+const scrollRevealOption = {
+    distance: "50px",
+    origin: "bottom",
+    duration: 1000,
+};
+
+ScrollReveal().reveal(".header__content h4" , {
+    ...scrollRevealOption,
+});
+ScrollReveal().reveal(".header__content h1" , {
+    ...scrollRevealOption,
+    delay: 500,
+});
+ScrollReveal().reveal(".header__content h2" , {
+    ...scrollRevealOption,
+    delay: 1000,
+});
+ScrollReveal().reveal(".header__content p" , {
+    ...scrollRevealOption,
+    delay: 1500,
+});
+ScrollReveal().reveal(".header__btn" , {
+    ...scrollRevealOption,
+    delay: 2000,
+});
