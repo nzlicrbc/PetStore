@@ -44,3 +44,12 @@ ScrollReveal().reveal(".intro__card" , {
     ...scrollRevealOption,
     interval: 500,
 });
+
+ScrollReveal().reveal(".about__row:nth-child(3) .about__image img, .about__row:nth-child(5) .about__image img" , {
+    ...scrollRevealOption,
+    origin:"left",
+});
+ScrollReveal().reveal(".about__row:nth-child(4) .about__image img" , {
+    ...scrollRevealOption,
+    origin:"right",
+});
