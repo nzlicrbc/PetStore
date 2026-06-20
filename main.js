@@ -39,3 +39,8 @@ ScrollReveal().reveal(".header__btn" , {
     ...scrollRevealOption,
     delay: 2000,
 });
+
+ScrollReveal().reveal(".intro__card" , {
+    ...scrollRevealOption,
+    interval: 500,
+});

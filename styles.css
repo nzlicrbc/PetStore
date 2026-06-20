@@ -328,6 +328,10 @@ img.header__image-bg{
     .header__content h1 span {
         font-size: 6rem;
     }
+
+    .intro__grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media(width > 768px) {
@@ -392,6 +396,10 @@ img.header__image-bg{
 
     .header__image img {
         max-width: 500px;
+    }
+
+    .intro__grid {
+        grid-template-columns: repeat(3, 1fr);
     }
 }
 
