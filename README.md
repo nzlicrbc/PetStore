@@ -1,6 +1,5 @@
 # PetStore
 
-# Pet Place - Pet Care Website
 A modern, responsive veterinary clinic website with smooth scroll animations and interactive components.
 
 ## 🌐 Live Demo
