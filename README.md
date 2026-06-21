@@ -1,6 +1,6 @@
 # PetStore
 
-A modern, responsive veterinary clinic website with smooth scroll animations and interactive components.
+A modern, responsive veterinary clinic website with smooth scroll animations and interactive components. 
 
 ## 🌐 Live Demo
 [Live demo](https://nzlicrbc.github.io/PetStore/)
