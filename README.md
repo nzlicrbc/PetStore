@@ -1,16 +1,12 @@
 # PetStore
 
-```
 # Pet Place - Pet Care Website
-
 A modern, responsive veterinary clinic website with smooth scroll animations and interactive components.
 
 ## 🌐 Live Demo
-
 [Live demo](https://nzlicrbc.github.io/PetStore/)
 
 ## ✨ Features
-
 - Responsive design (mobile, tablet, desktop)
 - Smooth scroll animations (ScrollReveal.js)
 - Mobile navigation menu
@@ -22,7 +18,6 @@ A modern, responsive veterinary clinic website with smooth scroll animations and
 - Social media links
 
 ## 🛠️ Tech Stack
-
 - HTML5, CSS3, JavaScript
 - [ScrollReveal.js](https://scrollrevealjs.org/) - Animations
 - [Swiper](https://swiperjs.com/) - Carousel
@@ -31,17 +26,15 @@ A modern, responsive veterinary clinic website with smooth scroll animations and
 
 ## 📁 Project Structure
 
-```
 PetStore/
 ├── index.html
 ├── styles.css
 ├── main.js
 ├── assets/
 └── README.md
-```
+
 
 ## 📋 Website Sections
-
 | Section | Content |
 |---------|---------|
 | Header | Hero with welcome message |
@@ -53,9 +46,8 @@ PetStore/
 | Instagram | Social media gallery |
 | Footer | Contact, newsletter, social links |
 
-
 ## 📱 Breakpoints
-
 - Mobile: < 540px
 - Tablet: 540px+
 - Desktop: 768px+
+
