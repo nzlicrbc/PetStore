@@ -24,15 +24,17 @@ A modern, responsive veterinary clinic website with smooth scroll animations and
 - [Remixicon](https://remixicon.com/) - Icons
 - Google Fonts
 
-## 📁 Project Structure
-```
 PetStore/
+
 ├── index.html
+
 ├── styles.css
+
 ├── main.js
+
 ├── assets/
+
 └── README.md
-```
 
 ## 📋 Website Sections
 | Section | Content |
