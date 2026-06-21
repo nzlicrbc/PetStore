@@ -7,7 +7,7 @@ A modern, responsive veterinary clinic website with smooth scroll animations and
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://nzlicrbc.github.io/PetStore/)
+[Live demo](https://nzlicrbc.github.io/PetStore/)
 
 ## ✨ Features
 
